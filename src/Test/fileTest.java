@@ -19,8 +19,7 @@ import GIS.packman;
 
 class fileTest {
 
-	//private File path=new File("C:\\Users\\aric\\git\\Ex2\\csv files"); 
-	String pathName="C:\\Users\\aric\\git\\EX3-Project\\testFile.csv";//the location of the file
+	String pathName="C:\\Users\\Talka\\Documents\\GitHub\\Packman-Ver-1.0\\testFile.csv"; //the location of the file
 	ArrayList<fruit> fruits=new ArrayList<fruit>();
 	ArrayList<packman> packmans=new ArrayList<packman>();
 
